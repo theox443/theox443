@@ -1,4 +1,4 @@
-### Penjelasan:
+Penjelasan:
 - **Nama Proyek**: Ganti dengan nama proyek Anda.
 - **Deskripsi**: Jelaskan secara singkat tentang proyek Anda.
 - **Persyaratan**: Sebutkan persyaratan sistem atau software yang diperlukan.
